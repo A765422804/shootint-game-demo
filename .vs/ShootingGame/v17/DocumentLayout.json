@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_project\\ShootingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|e:\\unity_project\\shootinggame\\assets\\af\\scripts\\enemylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\af\\scripts\\enemylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Unity_project\\ShootingGame\\assets\\af\\scripts\\bulletlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\af\\scripts\\bulletlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|e:\\unity_project\\shootinggame\\assets\\af\\scripts\\enemycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\af\\scripts\\enemycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Unity_project\\ShootingGame\\assets\\af\\scripts\\playerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\af\\scripts\\playerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|E:\\Unity_project\\ShootingGame\\assets\\af\\scripts\\mainlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29D328-2221-BEEB-FDBB-E772EA262183}|Assembly-CSharp.csproj|solutionrelative:assets\\af\\scripts\\mainlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enemyCreator.cs",
+              "DocumentMoniker": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\enemyCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\AF\\Scripts\\enemyCreator.cs",
+              "ToolTip": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\enemyCreator.cs",
+              "RelativeToolTip": "Assets\\AF\\Scripts\\enemyCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:34:21.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyLogic.cs",
+              "DocumentMoniker": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\EnemyLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\AF\\Scripts\\EnemyLogic.cs",
+              "ToolTip": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\EnemyLogic.cs",
+              "RelativeToolTip": "Assets\\AF\\Scripts\\EnemyLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:28:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerLogic.cs",
+              "DocumentMoniker": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\PlayerLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\AF\\Scripts\\PlayerLogic.cs",
+              "ToolTip": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\PlayerLogic.cs",
+              "RelativeToolTip": "Assets\\AF\\Scripts\\PlayerLogic.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:50:19.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletLogic.cs",
+              "DocumentMoniker": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\BulletLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\AF\\Scripts\\BulletLogic.cs",
+              "ToolTip": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\BulletLogic.cs",
+              "RelativeToolTip": "Assets\\AF\\Scripts\\BulletLogic.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:36:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLogic.cs",
+              "DocumentMoniker": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\MainLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\AF\\Scripts\\MainLogic.cs",
+              "ToolTip": "E:\\Unity_project\\ShootingGame\\Assets\\AF\\Scripts\\MainLogic.cs",
+              "RelativeToolTip": "Assets\\AF\\Scripts\\MainLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:30:16.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
